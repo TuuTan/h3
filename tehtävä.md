@@ -53,6 +53,28 @@ vain root käyttäjillä on oikeudet muokata tiedostoa, annan muille oikeudet ti
 
 <img width="993" height="257" alt="kuva" src="https://github.com/user-attachments/assets/56431aa5-05a2-40ce-9fab-03114bb3ab7c" />
 
+c
+
+poistan nginx:in jotta voin asentaa sen ansiblella 
+
+<img width="1264" height="724" alt="kuva" src="https://github.com/user-attachments/assets/aa4d0e9d-3440-432d-aa2d-c655f2ccd67a" />
+
+tein ansible koodin joka asentaa nginxin
+
+<img width="1258" height="108" alt="kuva" src="https://github.com/user-attachments/assets/77138f4e-ffd0-4339-8c0f-8f08f6443562" />
+
+ajoin ansible playbookin
+
+<img width="1257" height="634" alt="kuva" src="https://github.com/user-attachments/assets/e44774ad-6386-46a5-b9ec-3ab7a01596d3" />
+
+katsoin tuliko nginx etusivu näkyviin
+
+<img width="1255" height="295" alt="kuva" src="https://github.com/user-attachments/assets/1f2eab1f-1dfa-4f42-911d-8a12c9ccbb25" />
+
+muokkausoikeudet olivat säilyneet kaikilla
+<img width="1258" height="115" alt="kuva" src="https://github.com/user-attachments/assets/a99c9b55-48bd-4432-a8a2-160e46a105f8" />
+
+
 
 lähteet:
 https://terokarvinen.com/apache-ansible/
