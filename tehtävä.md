@@ -25,9 +25,13 @@ löysin uutisen Fossilista joka on scw ohjelma https://news.ycombinator.com/item
 a
 
 asensin apache2 käsin käyttämällä tero karvisen ohjetta Install Apache Web Server on Ubuntu https://terokarvinen.com/install_apache_on_ubuntu.html annoin ensin komennon "sudo apt-get install apache2" jonka jälkeen tarkistin että apache sivu on localhostissa
+
 <img width="1272" height="796" alt="kuva" src="https://github.com/user-attachments/assets/edca0742-95ec-4e0d-93b9-f1471540cc93" />
+
 tarkistan index.html tiedoston oikeudet
+
 <img width="595" height="177" alt="kuva" src="https://github.com/user-attachments/assets/b1287515-1560-4fcb-8e1e-f210c7ddfe4a" />
+
 vain root käyttäjät voivat muokata tiedostoa
 
 muokkaan oikeuksia niin että kaikki käyttäjät voivat muokata tiedostoa
