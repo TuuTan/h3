@@ -16,17 +16,15 @@ joissa ansible on tehnyt muita muutoksia. handlereja voi käskeä suorittamaan i
 
 y
 
-löysin uutisen ansible4.0 julkaisusta. https://news.ycombinator.com/item?id=27215477 
+löysin uutisen Fossilista joka on scw ohjelma https://news.ycombinator.com/item?id=49335217
 
--vanha ansible piti poistaa ennen uuden asennusta
+-versionhallintaominaisuudet
 
--kaikki muutokset eivät olleet takaperinyhteensopivia
-
--ansible 3 päivitykset loppuivat
+-avoin lähdekoodi
 
 lähteet:
 https://terokarvinen.com/apache-ansible/
 
 https://docs.ansible.com/projects/ansible/latest/playbook_guide/playbooks_handlers.html
 
-https://news.ycombinator.com/item?id=27215477
+https://news.ycombinator.com/item?id=49335217
